@@ -1,5 +1,7 @@
 Rencana Konten Rizky
 
 - JavaScript
+ *ES6
+ *Frameworks JS
 - PHP Frameworks
 - Vlog
